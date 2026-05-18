@@ -2220,6 +2220,96 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_white_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "travelersbackpack:dye_backpack": {
+    "criteria": {
+      "dye_backpack": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/white_bundle": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2026-05-15 20:16:52 -0400"
+    },
+    "done": true
+  },
   "nemos_woodcutter:recipes/building_blocks/pale_oak_stairs_from_pale_oak_planks_woodcutting": {
     "criteria": {
       "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
@@ -2232,9 +2322,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/decorations/pale_oak_fence": {
     "criteria": {
-      "has_planks": "2026-05-15 20:44:30 -0400"
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/pale_oak_sign_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/pale_oak_slab_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_slab": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/pale_oak_fence_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_button": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/pale_oak_boat_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_pressure_plate_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_trapdoor_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_door": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_door_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_fence_gate_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/pale_oak_button_from_pale_oak_planks_woodcutting": {
+    "criteria": {
+      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pale_oak_sign": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:23:24 -0400"
     },
     "done": true
   },
@@ -2244,9 +2430,117 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_fence": {
+  "nemos_woodcutter:recipes/redstone/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_door_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_button_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/jungle_sign_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/jungle_stairs_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/building_blocks/jungle_slab_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/transportation/jungle_boat_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/decorations/jungle_fence_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "nemos_woodcutter:recipes/redstone/jungle_trapdoor_from_jungle_planks_woodcutting": {
+    "criteria": {
+      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:25:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2026-05-15 20:44:30 -0400"
     },
     "done": true
   },
@@ -2262,27 +2556,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/building_blocks/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
       "has_birch_planks": "2026-05-15 20:44:30 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/pale_oak_sign_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2026-05-15 21:21:42 -0400"
     },
     "done": true
   },
@@ -2310,39 +2586,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/building_blocks/pale_oak_slab_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/jungle_pressure_plate_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2026-05-15 20:44:30 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/jungle_door_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_slab": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
     },
     "done": true
   },
@@ -2352,129 +2598,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/decorations/pale_oak_fence_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_white_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_button": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/transportation/pale_oak_boat_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/redstone/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
       "has_birch_planks": "2026-05-15 20:44:30 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "travelersbackpack:dye_backpack": {
-    "criteria": {
-      "dye_backpack": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/jungle_button_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/jungle_sign_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_pressure_plate_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/jungle_stairs_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
     },
     "done": true
   },
@@ -2490,30 +2616,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/white_bundle": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/building_blocks/jungle_slab_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/transportation/jungle_boat_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/decorations/jungle_fence_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/building_blocks/birch_slab_from_birch_planks_woodcutting": {
     "criteria": {
       "has_birch_planks": "2026-05-15 20:44:30 -0400"
@@ -2523,60 +2625,6 @@
   "nemos_woodcutter:recipes/redstone/birch_pressure_plate_from_birch_planks_woodcutting": {
     "criteria": {
       "has_birch_planks": "2026-05-15 20:44:30 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_trapdoor_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_door": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/pale_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_door_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/jungle_trapdoor_from_jungle_planks_woodcutting": {
-    "criteria": {
-      "has_jungle_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pale_oak_stairs": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
     },
     "done": true
   },
@@ -2592,51 +2640,9 @@
     },
     "done": true
   },
-  "nemos_woodcutter:recipes/redstone/pale_oak_fence_gate_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/building_blocks/dye_white_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "nemos_woodcutter:recipes/redstone/pale_oak_button_from_pale_oak_planks_woodcutting": {
-    "criteria": {
-      "has_pale_oak_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:25:44 -0400"
-    },
-    "done": true
-  },
   "nemos_woodcutter:recipes/decorations/birch_sign_from_birch_planks_woodcutting": {
     "criteria": {
       "has_birch_planks": "2026-05-15 20:44:30 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2026-05-15 20:16:52 -0400"
     },
     "done": true
   },
@@ -2646,15 +2652,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/pale_oak_pressure_plate": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pale_oak_sign": {
-    "criteria": {
-      "has_planks": "2026-05-15 20:23:24 -0400"
+      "slept_in_bed": "2026-05-15 21:21:42 -0400"
     },
     "done": true
   },
